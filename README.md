@@ -1,4 +1,4 @@
 # finalOS
-Web Server
-SSH Server 
-DNS Server
+- Web Server
+- SSH Server 
+- DNS Server
