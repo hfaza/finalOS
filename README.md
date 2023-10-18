@@ -1,4 +1,4 @@
 # finalOS
-- Web Server
-- SSH Server 
+- Web Server 
+- SSH Server sudah 
 - DNS Server
