@@ -1,7 +1,7 @@
 Versi Ubuntu 
 https://drive.google.com/file/d/1if8V38nrnMzq_-tc0xkPkxK5Uu6RCCNO/view?usp=share_link
 1. Web Server yang berisi html
-   - Install Apache 2 / sudah
+   - Install Apache 2 (sudah)
     https://drive.google.com/file/d/1FeddvMLJ0S4iAgEo22ex09YWAr_HKNfC/view?usp=share_link
    - mysql (Database) (sudah)
     https://drive.google.com/file/d/174Mvz8MHO0C9DB1cru7BhwOH1hrc1BIF/view?usp=share_link
