@@ -7,6 +7,7 @@ https://drive.google.com/file/d/1if8V38nrnMzq_-tc0xkPkxK5Uu6RCCNO/view?usp=share
     https://drive.google.com/file/d/174Mvz8MHO0C9DB1cru7BhwOH1hrc1BIF/view?usp=share_link
 3. SSH Server (sudah)
 https://drive.google.com/file/d/1c5Ah7_QtTWlqlLyMvp3lk5Hd5pVy6306/view?usp=share_link
-4. DHCP (rencana)
-5. DNS Server (rencana)
+4. DHCP (sudah)
+5. DNS Server (sudah)
+https://drive.google.com/file/d/1ex3YaF5U5Ubylx4fBIOFNrYjnuyjKhX-/view?usp=share_link
    
