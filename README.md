@@ -10,4 +10,4 @@ https://drive.google.com/file/d/1c5Ah7_QtTWlqlLyMvp3lk5Hd5pVy6306/view?usp=share
 4. DHCP (sudah)
 5. DNS Server (sudah)
 https://drive.google.com/file/d/1ex3YaF5U5Ubylx4fBIOFNrYjnuyjKhX-/view?usp=share_link
-   
+6. NGROK(sudah)
